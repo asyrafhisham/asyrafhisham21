@@ -4,7 +4,7 @@
 :technologist: I’m a QA Manual Engineer with personal testing experience. In my work, I used different types of functional and non-functional testing, applied test design techniques. I had learnt API, SQL and HTTP/HTTPS protocols. I had some experience as a freelancer at Payever, in this company I tested the Web application, did UI testing and also regression testing.Also I have small projects using HTML and CSS.
 
 ### :page_facing_up: Resume
--  [My CV](https://drive.google.com/file/d/1oPTcCGaxmW-RLUTnOIED5Ldk8ScriwWY/view?usp=sharing)
+-  [My CV]
 
 ### :bookmark_tabs: My projects
 -  [Test-Case]
